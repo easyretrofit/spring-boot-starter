@@ -6,7 +6,7 @@
     <parent>
         <groupId>io.github.easyretrofit</groupId>
         <artifactId>spring-boot-integration-tests</artifactId>
-        <version>1.2.0</version>
+        <version>1.3.0</version>
     </parent>
 
     <artifactId>single-instance-integration-test</artifactId>
