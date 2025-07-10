@@ -9,7 +9,7 @@
     </parent>
 
     <packaging>jar</packaging>
-    <name>Spring Boot Starter</name>
+    <name>spring-boot-starter</name>
     <artifactId>spring-boot-starter</artifactId>
     <description>Implicit creation of retrofit instances based on the Spring framework DI, providing more functionality through annotations and extensions</description>
 
